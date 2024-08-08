@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Math Notes.md",
+                "file": "STA432 - Mathematical Statistics/Lecture 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Math Notes.md",
+                "file": "STA432 - Mathematical Statistics/Lecture 2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Math Notes.md",
+                "file": "STA432 - Mathematical Statistics/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Math Notes.md",
+                "file": "STA432 - Mathematical Statistics/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Math Notes.md"
+                "file": "STA432 - Mathematical Statistics/Lecture 2.md"
               }
             }
           }
@@ -166,9 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "696957c8118841b2",
+  "active": "e4edf0a8b3726c0d",
   "lastOpenFiles": [
-    "Test Math Notes.md",
+    "STA432 - Mathematical Statistics/~$Lecture 2.pptx",
+    "STA432 - Mathematical Statistics/Lecture 2.pdf",
+    "STA432 - Mathematical Statistics/Lecture 2.md",
+    "STA432 - Mathematical Statistics/Lecture 2.pptx",
+    "STA432 - Mathematical Statistics/Lecture 2.tex",
+    "STA432 - Mathematical Statistics",
     "Welcome.md"
   ]
 }
