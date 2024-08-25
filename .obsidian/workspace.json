@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 1.md",
+                "file": "CS216 - Everything Data/Lecture 1.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d07e07cf9dfc0d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24daa13a2adf6e7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 1.md",
+                "file": "CS216 - Everything Data/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 1.md",
+                "file": "CS216 - Everything Data/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +134,17 @@
             }
           },
           {
-            "id": "696957c8118841b2",
+            "id": "d1a21ba6af011396",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 1.md"
+                "file": "CS216 - Everything Data/Lecture 1.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,24 +164,19 @@
   },
   "active": "e4edf0a8b3726c0d",
   "lastOpenFiles": [
-    "STA432 - Mathematical Statistics/Lecture 2.md",
-    "CS216 - Everything Data/Lecture 1.md",
-    "CS321 - Graph-Matrix Analysis/Lecture 1.md",
-    "POL216 - Illiberal Nondemocracies/Lecture 1.md",
-    "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
+    "Test Math Notes.md",
     "STA440L - Case Studies/Lecture 1.md",
-    "Untitled.md",
-    "README.md",
-    "SPANISH303 - Intro Cultural Studies",
-    "CS216 - Everything Data",
-    "CS321 - Graph-Matrix Analysis",
     "STA440L - Case Studies",
-    "POL216 - Illiberal Nondemocracies",
-    "STA432 - Mathematical Statistics/~$Lecture 2.pptx",
-    "STA432 - Mathematical Statistics/Lecture 2.pdf",
-    "STA432 - Mathematical Statistics/Lecture 2.pptx",
-    "STA432 - Mathematical Statistics/Lecture 2.tex",
+    "STA432 - Mathematical Statistics/Lecture 2.md",
     "STA432 - Mathematical Statistics",
+    "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
+    "SPANISH303 - Intro Cultural Studies",
+    "POL216 - Illiberal Nondemocracies/Lecture 1.md",
+    "POL216 - Illiberal Nondemocracies",
+    "CS321 - Graph-Matrix Analysis/Lecture 1.md",
+    "CS321 - Graph-Matrix Analysis",
+    "CS216 - Everything Data/Lecture 1.md",
+    "CS216 - Everything Data",
     "Welcome.md"
   ]
 }
