@@ -1,4 +1,4 @@
-# Lecture 1
+# Syllabus Day and Intros
 
 #### Personal Intro
 *Hola a todos. Me llamo Mitch Harrison. Este es mi último semestre. Tengo 30 años. Yo estaba en el ejército durante 7 años antes de la escuela, así que estoy un poco tarde. Me interesa la propaganda y la política, así que estoy emocionado con esta clase. Encantado de conocerlos a todos.*
