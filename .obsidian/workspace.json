@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS216 - Everything Data/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,15 +22,19 @@
         ]
       },
       {
-        "id": "8d07e07cf9dfc0d9",
+        "id": "baffb879d9d67a12",
         "type": "tabs",
         "children": [
           {
-            "id": "24daa13a2adf6e7c",
+            "id": "f6362b29c1e471d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -83,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 214.5
   },
   "right": {
     "id": "d4b3018909a73542",
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS216 - Everything Data/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS216 - Everything Data/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS216 - Everything Data/Lecture 1.md"
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md"
               }
             }
           }
@@ -162,20 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4edf0a8b3726c0d",
+  "active": "f6362b29c1e471d2",
   "lastOpenFiles": [
+    "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
+    "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+    "CS216 - Everything Data/Lecture 1.md",
     "Test Math Notes.md",
     "STA440L - Case Studies/Lecture 1.md",
     "STA440L - Case Studies",
     "STA432 - Mathematical Statistics/Lecture 2.md",
     "STA432 - Mathematical Statistics",
-    "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
     "SPANISH303 - Intro Cultural Studies",
     "POL216 - Illiberal Nondemocracies/Lecture 1.md",
     "POL216 - Illiberal Nondemocracies",
     "CS321 - Graph-Matrix Analysis/Lecture 1.md",
     "CS321 - Graph-Matrix Analysis",
-    "CS216 - Everything Data/Lecture 1.md",
     "CS216 - Everything Data",
     "Welcome.md"
   ]
