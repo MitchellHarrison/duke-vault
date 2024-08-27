@@ -20,8 +20,8 @@ x_{3i} &= \mathbb{I}(\text{sex = male}).
 $$
 
 Importantly, when writing this model, we must include some key things:
-1. The subscript $i$'s.
-2. The error term $\epsilon$.
+1. The subscript $i$'s (unless we write the function in matrix form).
+2. The error term $\epsilon$ (unless we denote estimates with $\hat{y}$, $\hat{\beta_0}$, etc.).
 3. The distribution of the error terms $\epsilon_i \overset{\mathrm{iid}}{\sim} N(0,sig^2)$, with no subscript $i$ on the $sig^2$, and ensuring all error terms are i.i.d. (this holds with normality assumptions being met).
 
 The model found $\beta_1 = 4.42$. To **interpret this coefficient**, we will say that for every $e$-fold increase in cadmium concentration, we expect the predicted reaction time to increase by 4.42 milliseconds, *controlling for age and sex*. In mathematical notation,
