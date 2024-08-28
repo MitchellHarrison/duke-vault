@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da0d81686a406e89",
+        "id": "bb9a753bd6a9206b",
         "type": "tabs",
+        "dimension": 42.45472837022132,
         "children": [
           {
-            "id": "e4edf0a8b3726c0d",
+            "id": "b34cb3846fac8f7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS321 - Graph-Matrix Analysis/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +23,17 @@
         ]
       },
       {
-        "id": "4b63e696006c4876",
+        "id": "adc937bdf4823458",
         "type": "tabs",
+        "dimension": 57.54527162977867,
         "children": [
           {
-            "id": "4b2374b3581d9694",
+            "id": "32ebbd4576690c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS321 - Graph-Matrix Analysis/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS321 - Graph-Matrix Analysis/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS321 - Graph-Matrix Analysis/Lecture 1.md",
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS321 - Graph-Matrix Analysis/Lecture 1.md"
+                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md"
               }
             }
           }
@@ -163,11 +165,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "e4edf0a8b3726c0d",
+  "active": "b34cb3846fac8f7d",
   "lastOpenFiles": [
+    "CS321 - Graph-Matrix Analysis/Lecture 1.md",
     "POL216 - Illiberal Nondemocracies/Lecture 1.md",
     "STA440L - Case Studies/Lecture 1.md",
     "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
@@ -179,7 +183,6 @@
     "STA432 - Mathematical Statistics",
     "SPANISH303 - Intro Cultural Studies",
     "POL216 - Illiberal Nondemocracies",
-    "CS321 - Graph-Matrix Analysis/Lecture 1.md",
     "CS321 - Graph-Matrix Analysis",
     "CS216 - Everything Data",
     "Welcome.md"
