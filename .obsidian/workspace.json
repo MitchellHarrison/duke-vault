@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9a753bd6a9206b",
+        "id": "88e20e0ea26ea2dd",
         "type": "tabs",
-        "dimension": 42.45472837022132,
         "children": [
           {
-            "id": "b34cb3846fac8f7d",
+            "id": "ceee77d99e5515b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "adc937bdf4823458",
-        "type": "tabs",
-        "dimension": 57.54527162977867,
-        "children": [
-          {
-            "id": "32ebbd4576690c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+                "file": "STA440L - Case Studies/Lecture 2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+                "file": "STA440L - Case Studies/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+                "file": "STA440L - Case Studies/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPANISH303 - Intro Cultural Studies/Lecture 2.md"
+                "file": "STA440L - Case Studies/Lecture 2.md"
               }
             }
           }
@@ -169,14 +149,15 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b34cb3846fac8f7d",
+  "active": "ceee77d99e5515b5",
   "lastOpenFiles": [
-    "CS321 - Graph-Matrix Analysis/Lecture 1.md",
-    "POL216 - Illiberal Nondemocracies/Lecture 1.md",
     "STA440L - Case Studies/Lecture 1.md",
-    "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
-    "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+    "STA440L - Case Studies/Lecture 2.md",
+    "CS321 - Graph-Matrix Analysis/Lecture 1.md",
     "CS216 - Everything Data/Lecture 1.md",
+    "SPANISH303 - Intro Cultural Studies/Lecture 2.md",
+    "SPANISH303 - Intro Cultural Studies/Lecture 1.md",
+    "POL216 - Illiberal Nondemocracies/Lecture 1.md",
     "Test Math Notes.md",
     "STA440L - Case Studies",
     "STA432 - Mathematical Statistics/Lecture 2.md",
