@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL216 - Illiberal Nondemocracies/Lecture 4.md",
+                "file": "CS321 - Graph-Matrix Analysis/Lecture 3.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "e2fcf29e1ba29933",
+        "id": "2785b7715bd85b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd1b704c63264a5d",
+            "id": "ae5db8bcb142f1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL216 - Illiberal Nondemocracies/Lecture 4.md",
+                "file": "CS321 - Graph-Matrix Analysis/Lecture 3.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POL216 - Illiberal Nondemocracies/Lecture 4.md",
+                "file": "CS321 - Graph-Matrix Analysis/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POL216 - Illiberal Nondemocracies/Lecture 4.md",
+                "file": "CS321 - Graph-Matrix Analysis/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL216 - Illiberal Nondemocracies/Lecture 4.md"
+                "file": "CS321 - Graph-Matrix Analysis/Lecture 3.md"
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "97644ef983077280",
   "lastOpenFiles": [
-    "POL216 - Illiberal Nondemocracies/Lecture 3.md",
     "POL216 - Illiberal Nondemocracies/Lecture 4.md",
+    "CS321 - Graph-Matrix Analysis/Lecture 3.md",
+    "POL216 - Illiberal Nondemocracies/Lecture 3.md",
     "STA440L - Case Studies/Lecture 3.md",
     "SPANISH204 - Adv. Intermediate Spanish/Lecture 1.md",
     "SPANISH204 - Adv. Intermediate Spanish",
