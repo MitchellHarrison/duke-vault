@@ -4,37 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a412ab3d248077",
+        "id": "bc6435f38f5d2aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "e4971235d5097fe5",
+            "id": "4a87590254a416ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 7.md",
+                "file": "STA440L - Case Studies/Lecture 10.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 10"
             }
           }
         ]
       },
       {
-        "id": "83dbffdd8e495d42",
+        "id": "c44464f85f63f4af",
         "type": "tabs",
         "children": [
           {
-            "id": "2709028a45af4e22",
+            "id": "51fc75aca19f7eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 7.md",
+                "file": "STA440L - Case Studies/Lecture 10.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 10"
             }
           }
         ]
@@ -57,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -72,7 +78,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 7.md",
+                "file": "POL216 - Illiberal Nondemocracies/Lecture 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture 11"
             }
           },
           {
@@ -120,10 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 7.md",
+                "file": "POL216 - Illiberal Nondemocracies/Lecture 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lecture 11"
             }
           },
           {
@@ -134,7 +148,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,8 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 7.md"
-              }
+                "file": "POL216 - Illiberal Nondemocracies/Lecture 11.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 11"
             }
           }
         ],
@@ -166,13 +184,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2709028a45af4e22",
+  "active": "51fc75aca19f7eed",
   "lastOpenFiles": [
-    "SPAN203 - Intermediate Spanish/Lecture 9.md",
-    "STA440L - Case Studies/Lecture 7.md",
-    "CS321 - Graph-Matrix Analysis/Lecture 6.md",
-    "CS321 - Graph-Matrix Analysis/Lecture 8.md",
+    "POL216 - Illiberal Nondemocracies/Lecture 11.md",
+    "STA440L - Case Studies/Lecture 10.md",
+    "STA440L - Case Studies/Lecture 9.md",
     "CS321 - Graph-Matrix Analysis/Lecture 7.md",
+    "CS216 - Everything Data/Lecture 2.md",
+    "CS321 - Graph-Matrix Analysis/Lecture 8.md",
+    "POL216 - Illiberal Nondemocracies/Lecture 10.md",
+    "STA440L - Case Studies/Lecture 8.md",
+    "CS216 - Everything Data/Lecture 1.md",
+    "SPAN203 - Intermediate Spanish/Lecture 13.md",
+    "SPAN203 - Intermediate Spanish/Lecture 12.md",
+    "SPAN203 - Intermediate Spanish/Lecture 11.md",
+    "SPAN203 - Intermediate Spanish/Lecture 10.md",
+    "SPAN203 - Intermediate Spanish/Project 2 Notes.md",
+    "STA440L - Case Studies/Lecture 7.md",
+    "SPAN203 - Intermediate Spanish/Lecture 9.md",
+    "CS321 - Graph-Matrix Analysis/Lecture 6.md",
     "STA440L - Case Studies/Lecture 6.md",
     "SPAN203 - Intermediate Spanish/Lecture 8.md",
     "SPAN203 - Intermediate Spanish/Lecture 7.md",
@@ -182,18 +212,6 @@
     "SPAN203 - Intermediate Spanish/Lecture 5.md",
     "SPAN203 - Intermediate Spanish/Project 1 Notes.md",
     "POL216 - Illiberal Nondemocracies/Lecture 7.md",
-    "SPAN203 - Intermediate Spanish/Lecture 4.md",
-    "SPAN203 - Intermediate Spanish/Lecture 3.md",
-    "CS321 - Graph-Matrix Analysis/Lecture 5.md",
-    "POL216 - Illiberal Nondemocracies/Lecture 6.md",
-    "POL216 - Illiberal Nondemocracies/Lecture 5.md",
-    "STA440L - Case Studies/Lecture 5.md",
-    "SPAN203 - Intermediate Spanish/Lecture 2.md",
-    "CS216 - Everything Data/Lecture 3.md",
-    "CS321 - Graph-Matrix Analysis/Lecture 4.md",
-    "STA440L - Case Studies/Lecture 4.md",
-    "SPAN203 - Intermediate Spanish/Lecture 1.md",
-    "CS321 - Graph-Matrix Analysis/Lab 1.md",
     "SPAN203 - Intermediate Spanish",
     "SPANISH204 - Adv. Intermediate Spanish",
     "CS321 - Graph-Matrix Analysis/Homework/1/homework.tex",
