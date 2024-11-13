@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 12.md",
+                "file": "STA440L - Case Studies/Lecture 13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 12"
+              "title": "Lecture 13"
             }
           }
         ]
       },
       {
-        "id": "9576fbf654ee9e59",
+        "id": "377ef05d3f7a2c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "77c2a16e3c43dd2a",
+            "id": "41e5778e9aa9dfe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 12.md",
+                "file": "STA440L - Case Studies/Lecture 13.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 12"
+              "title": "Lecture 13"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "170259404d622f1e",
   "lastOpenFiles": [
-    "STA440L - Case Studies/Lecture 11.md",
+    "SPAN203 - Intermediate Spanish/Lecture 14.md",
+    "STA440L - Case Studies/Lecture 13.md",
     "STA440L - Case Studies/Lecture 12.md",
+    "STA440L - Case Studies/Lecture 11.md",
     "SPAN203 - Intermediate Spanish/Lecture 13.md",
     "SPAN203 - Intermediate Spanish/Lecture 12.md",
     "STA440L - Case Studies/Lecture 10.md",
@@ -210,8 +212,6 @@
     "SPAN203 - Intermediate Spanish/Lecture 7.md",
     "POL216 - Illiberal Nondemocracies/Lecture 9.md",
     "SPAN203 - Intermediate Spanish/Lecture 6.md",
-    "POL216 - Illiberal Nondemocracies/Lecture 8.md",
-    "SPAN203 - Intermediate Spanish/Lecture 5.md",
     "SPAN203 - Intermediate Spanish",
     "SPANISH204 - Adv. Intermediate Spanish",
     "CS321 - Graph-Matrix Analysis/Homework/1/homework.tex",
