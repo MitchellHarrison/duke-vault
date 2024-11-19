@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAN203 - Intermediate Spanish/Lecture 15.md",
+                "file": "STA440L - Case Studies/Lecture 14.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 15"
+              "title": "Lecture 14"
             }
           }
         ]
       },
       {
-        "id": "4f0ff73d6873382c",
+        "id": "836190e8cdae4ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "61609e3869e82ec8",
+            "id": "044bf29b6e577bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAN203 - Intermediate Spanish/Lecture 15.md",
+                "file": "STA440L - Case Studies/Lecture 14.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 15"
+              "title": "Lecture 14"
             }
           }
         ]
@@ -184,9 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61609e3869e82ec8",
+  "active": "170259404d622f1e",
   "lastOpenFiles": [
     "STA440L - Case Studies/Lecture 13.md",
+    "STA440L - Case Studies/Lecture 14.md",
     "SPAN203 - Intermediate Spanish/Lecture 15.md",
     "SPAN203 - Intermediate Spanish/Lecture 14.md",
     "STA440L - Case Studies/Lecture 12.md",
@@ -211,7 +212,6 @@
     "STA440L - Case Studies/Lecture 6.md",
     "SPAN203 - Intermediate Spanish/Lecture 8.md",
     "SPAN203 - Intermediate Spanish/Lecture 7.md",
-    "POL216 - Illiberal Nondemocracies/Lecture 9.md",
     "SPAN203 - Intermediate Spanish",
     "SPANISH204 - Adv. Intermediate Spanish",
     "CS321 - Graph-Matrix Analysis/Homework/1/homework.tex",
