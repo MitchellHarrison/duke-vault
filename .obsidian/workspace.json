@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 14.md",
+                "file": "STA440L - Case Studies/Lecture 15.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 14"
+              "title": "Lecture 15"
             }
           }
         ]
       },
       {
-        "id": "836190e8cdae4ef4",
+        "id": "22adab3b6206d66a",
         "type": "tabs",
         "children": [
           {
-            "id": "044bf29b6e577bb1",
+            "id": "8c6b84a96b183230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA440L - Case Studies/Lecture 14.md",
+                "file": "STA440L - Case Studies/Lecture 15.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 14"
+              "title": "Lecture 15"
             }
           }
         ]
@@ -186,8 +186,11 @@
   },
   "active": "170259404d622f1e",
   "lastOpenFiles": [
-    "STA440L - Case Studies/Lecture 13.md",
+    "SPAN203 - Intermediate Spanish/Lecture 16.md",
+    "STA440L - Case Studies/Lecture 15.md",
+    "STA440L - Case Studies/Lecture 3.md",
     "STA440L - Case Studies/Lecture 14.md",
+    "STA440L - Case Studies/Lecture 13.md",
     "SPAN203 - Intermediate Spanish/Lecture 15.md",
     "SPAN203 - Intermediate Spanish/Lecture 14.md",
     "STA440L - Case Studies/Lecture 12.md",
@@ -209,9 +212,6 @@
     "STA440L - Case Studies/Lecture 7.md",
     "SPAN203 - Intermediate Spanish/Lecture 9.md",
     "CS321 - Graph-Matrix Analysis/Lecture 6.md",
-    "STA440L - Case Studies/Lecture 6.md",
-    "SPAN203 - Intermediate Spanish/Lecture 8.md",
-    "SPAN203 - Intermediate Spanish/Lecture 7.md",
     "SPAN203 - Intermediate Spanish",
     "SPANISH204 - Adv. Intermediate Spanish",
     "CS321 - Graph-Matrix Analysis/Homework/1/homework.tex",
